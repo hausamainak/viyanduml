@@ -1,5 +1,5 @@
 import sys,math
 if __name__=='__main__':
- a=59
- b=2*a
+ a=62
+ b=8*a
  print( math.tan(b))
